@@ -12,49 +12,49 @@ Compare with the previous release: [v6.5.21](https://github.com/c0rejs/result/co
 
 **Other changes:**
 
-- style: lint (● [9e6126b](https://github.com/softvisio-node/result/commit/9e6126b); 👬 zdm)
+- style: lint (● [9e6126b](https://github.com/c0rejs/result/commit/9e6126b); 👬 zdm)
 
-Compare with the previous release: [v6.5.20](https://github.com/softvisio-node/result/compare/v6.5.20...v6.5.21)
+Compare with the previous release: [v6.5.20](https://github.com/c0rejs/result/compare/v6.5.20...v6.5.21)
 
 ### v6.5.20 (2025-07-23)
 
 **Other changes:**
 
-- style: update .npmrc (● [d3e4263](https://github.com/softvisio-node/result/commit/d3e4263); 👬 zdm)
+- style: update .npmrc (● [d3e4263](https://github.com/c0rejs/result/commit/d3e4263); 👬 zdm)
 
-Compare with the previous release: [v6.5.19](https://github.com/softvisio-node/result/compare/v6.5.19...v6.5.20)
+Compare with the previous release: [v6.5.19](https://github.com/c0rejs/result/compare/v6.5.19...v6.5.20)
 
 ### v6.5.19 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [82b4d74](https://github.com/softvisio-node/result/commit/82b4d74); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [82b4d74](https://github.com/c0rejs/result/commit/82b4d74); 👬 zdm)
 
-Compare with the previous release: [v6.5.18](https://github.com/softvisio-node/result/compare/v6.5.18...v6.5.19)
+Compare with the previous release: [v6.5.18](https://github.com/c0rejs/result/compare/v6.5.18...v6.5.19)
 
 ### v6.5.18 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [292542c](https://github.com/softvisio-node/result/commit/292542c); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [292542c](https://github.com/c0rejs/result/commit/292542c); 👬 zdm)
 
-Compare with the previous release: [v6.5.17](https://github.com/softvisio-node/result/compare/v6.5.17...v6.5.18)
+Compare with the previous release: [v6.5.17](https://github.com/c0rejs/result/compare/v6.5.17...v6.5.18)
 
 ### v6.5.17 (2025-07-16)
 
 **Other changes:**
 
-- style: lint (● [8560a80](https://github.com/softvisio-node/result/commit/8560a80); 👬 zdm)
+- style: lint (● [8560a80](https://github.com/c0rejs/result/commit/8560a80); 👬 zdm)
 
-Compare with the previous release: [v6.5.16](https://github.com/softvisio-node/result/compare/v6.5.16...v6.5.17)
+Compare with the previous release: [v6.5.16](https://github.com/c0rejs/result/compare/v6.5.16...v6.5.17)
 
 ### v6.5.16 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [25d049d](https://github.com/softvisio-node/result/commit/25d049d); 👬 zdm)
+- docs: update (● [25d049d](https://github.com/c0rejs/result/commit/25d049d); 👬 zdm)
 
-Compare with the previous release: [v6.5.15](https://github.com/softvisio-node/result/compare/v6.5.15...v6.5.16)
+Compare with the previous release: [v6.5.15](https://github.com/c0rejs/result/compare/v6.5.15...v6.5.16)
 
 ### v6.5.15 (2025-06-07)
 
@@ -62,7 +62,7 @@ Compare with the previous release: [v6.5.15](https://github.com/softvisio-node/r
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v6.5.14](https://github.com/softvisio-node/result/compare/v6.5.14...v6.5.15)
+Compare with the previous release: [v6.5.14](https://github.com/c0rejs/result/compare/v6.5.14...v6.5.15)
 
 ### v6.5.14 (2025-06-01)
 
@@ -70,7 +70,7 @@ Compare with the previous release: [v6.5.14](https://github.com/softvisio-node/r
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v6.5.13](https://github.com/softvisio-node/result/compare/v6.5.13...v6.5.14)
+Compare with the previous release: [v6.5.13](https://github.com/c0rejs/result/compare/v6.5.13...v6.5.14)
 
 ### 6.5.13 (2025-03-26)
 
@@ -78,7 +78,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v6.5.12...v6.5.13`](https://github.com/softvisio-node/result/compare/v6.5.12...v6.5.13)
+Compare with the previous release: [`v6.5.12...v6.5.13`](https://github.com/c0rejs/result/compare/v6.5.12...v6.5.13)
 
 ### 6.5.12 (2025-02-27)
 
@@ -86,7 +86,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v6.5.11...v6.5.12`](https://github.com/softvisio-node/result/compare/v6.5.11...v6.5.12)
+Compare with the previous release: [`v6.5.11...v6.5.12`](https://github.com/c0rejs/result/compare/v6.5.11...v6.5.12)
 
 ### 6.5.11 (2025-02-26)
 
@@ -94,7 +94,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v6.5.10...v6.5.11`](https://github.com/softvisio-node/result/compare/v6.5.10...v6.5.11)
+Compare with the previous release: [`v6.5.10...v6.5.11`](https://github.com/c0rejs/result/compare/v6.5.10...v6.5.11)
 
 ### 6.5.10 (2025-02-19)
 
@@ -102,7 +102,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v6.5.9...v6.5.10`](https://github.com/softvisio-node/result/compare/v6.5.9...v6.5.10)
+Compare with the previous release: [`v6.5.9...v6.5.10`](https://github.com/c0rejs/result/compare/v6.5.9...v6.5.10)
 
 ### 6.5.9 (2024-12-07)
 
@@ -110,7 +110,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v6.5.8 ... v6.5.9](https://github.com/softvisio-node/result/compare/v6.5.8...v6.5.9)
+[Compare with the previous release: v6.5.8 ... v6.5.9](https://github.com/c0rejs/result/compare/v6.5.8...v6.5.9)
 
 ### 6.5.8 (2024-11-29)
 
@@ -120,7 +120,7 @@ Other changes:
 - chore: rename tests directory
 - chore: update package metadata
 
-[Compare with the previous release: v6.5.7 ... v6.5.8](https://github.com/softvisio-node/result/compare/v6.5.7...v6.5.8)
+[Compare with the previous release: v6.5.7 ... v6.5.8](https://github.com/c0rejs/result/compare/v6.5.7...v6.5.8)
 
 ### 6.5.7 (2024-11-10)
 
@@ -128,7 +128,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v6.5.6 ... v6.5.7](https://github.com/softvisio-node/result/compare/v6.5.6...v6.5.7)
+[Compare with the previous release: v6.5.6 ... v6.5.7](https://github.com/c0rejs/result/compare/v6.5.6...v6.5.7)
 
 ### 6.5.6 (2024-10-30)
 
@@ -136,7 +136,7 @@ Other changes:
 
 - chore: migrate to node v22
 
-[Compare with the previous release: v6.5.5 ... v6.5.6](https://github.com/softvisio-node/result/compare/v6.5.5...v6.5.6)
+[Compare with the previous release: v6.5.5 ... v6.5.6](https://github.com/c0rejs/result/compare/v6.5.5...v6.5.6)
 
 ### 6.5.5 (2024-10-29)
 
@@ -144,7 +144,7 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v6.5.4 ... v6.5.5](https://github.com/softvisio-node/result/compare/v6.5.4...v6.5.5)
+[Compare with the previous release: v6.5.4 ... v6.5.5](https://github.com/c0rejs/result/compare/v6.5.4...v6.5.5)
 
 ### 6.5.4 (2024-10-29)
 
@@ -152,25 +152,25 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v6.5.3 ... v6.5.4](https://github.com/softvisio-node/result/compare/v6.5.3...v6.5.4)
+[Compare with the previous release: v6.5.3 ... v6.5.4](https://github.com/c0rejs/result/compare/v6.5.3...v6.5.4)
 
 ### 6.5.3 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/result/compare/v6.5.2...v6.5.3)
+[Full list of the changes](https://github.com/c0rejs/result/compare/v6.5.2...v6.5.3)
 
 ### 6.5.2 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/result/compare/v6.5.1...v6.5.2)
+[Full list of the changes](https://github.com/c0rejs/result/compare/v6.5.1...v6.5.2)
 
 ### 6.5.1 (2024-10-15)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/result/compare/v6.5.0...v6.5.1)
+[Full list of the changes](https://github.com/c0rejs/result/compare/v6.5.0...v6.5.1)
 
 ### 6.5.0 (2024-10-13)
 
@@ -178,7 +178,7 @@ Features:
 
 - feat: package test script
 
-[Full list of the changes](https://github.com/softvisio-node/result/compare/v6.4.0...v6.5.0)
+[Full list of the changes](https://github.com/c0rejs/result/compare/v6.4.0...v6.5.0)
 
 ### 6.4.0 (2024-10-13)
 
@@ -186,13 +186,13 @@ Features:
 
 - feat: package test script
 
-[Full list of the changes](https://github.com/softvisio-node/result/compare/v6.3.25...v6.4.0)
+[Full list of the changes](https://github.com/c0rejs/result/compare/v6.3.25...v6.4.0)
 
 ### 6.3.25 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/result/compare/v6.3.24...v6.3.25)
+[Full list of the changes](https://github.com/c0rejs/result/compare/v6.3.24...v6.3.25)
 
 ### 6.3.24 (2024-10-06)
 
@@ -670,7 +670,7 @@ Added:
 
 Added:
 
-- utils moved to @softvisio/utils
+- utils moved to @c0rejs/utils
 
 ### 4.1.6 (2021-07-04)
 

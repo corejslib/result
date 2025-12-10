@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.22 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [904bbef](https://github.com/c0rejs/result/commit/904bbef), [7f49d23](https://github.com/c0rejs/result/commit/7f49d23), [73b1637](https://github.com/c0rejs/result/commit/73b1637); 👬 zdm)
+
+Compare with the previous release: [v6.5.21](https://github.com/c0rejs/result/compare/v6.5.21...v6.5.22)
+
 ### v6.5.21 (2025-10-26)
 
 **Other changes:**

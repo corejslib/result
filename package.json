@@ -2,14 +2,14 @@
     "name": "@c0rejs/result",
     "version": "6.5.21",
     "description": "Result object",
-    "homepage": "https://softvisio-node.github.io/result/",
+    "homepage": "https://c0rejs.github.io/result/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/result/issues",
+        "url": "https://github.com/c0rejs/result/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/softvisio-node/result.git"
+        "url": "git+https://github.com/c0rejs/result.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",

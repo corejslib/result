@@ -1,5 +1,17 @@
 # Changelog
 
+### v6.5.24 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [3ae8f38](https://github.com/c0rejs/result/commit/3ae8f38); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [0d36075](https://github.com/c0rejs/result/commit/0d36075); 👬 zdm)
+
+Compare with the previous release: [v6.5.23](https://github.com/c0rejs/result/compare/v6.5.23...v6.5.24)
+
 ### v6.5.23 (2025-12-10)
 
 **Other changes:**

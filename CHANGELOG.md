@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.25 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [6df9977](https://github.com/c0rejs/result/commit/6df9977); 👬 zdm)
+
+Compare with the previous release: [v6.5.24](https://github.com/c0rejs/result/compare/v6.5.24...v6.5.25)
+
 ### v6.5.24 (2025-12-11)
 
 **Bug fixes:**

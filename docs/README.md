@@ -5,7 +5,7 @@ Serializable result object, that encapsulates operation status, statusText and r
 ## Install
 
 ```sh
-npm install @c0rejs/result
+npm install @corejslib/result
 ```
 
 Under `node` environment it also register itself as `global.result`, so you don;t need to import it into all modules;
@@ -13,7 +13,7 @@ Under `node` environment it also register itself as `global.result`, so you don;
 ## Usage
 
 ```javascript
-import result from "@c0rejs/result";
+import result from "@corejslib/result";
 
 var res = result( 200 );
 

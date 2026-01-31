@@ -1,5 +1,15 @@
 # Changelog
 
+### v6.5.29 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [087f23e](https://github.com/corejslib/result/commit/087f23e); 👬 zdm)
+
+- chore(metadata): update package metadata (● [f79ca7b](https://github.com/corejslib/result/commit/f79ca7b); 👬 zdm)
+
+Compare with the previous release: [v6.5.28](https://github.com/corejslib/result/compare/v6.5.28...v6.5.29)
+
 ### v6.5.28 (2026-01-29)
 
 No changes since the previous release.

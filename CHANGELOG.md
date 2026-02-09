@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.31 (2026-02-09)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix func names (● [b277820](https://github.com/corejslib/result/commit/b277820); 👬 zdm)
+
+Compare with the previous release: [v6.5.30](https://github.com/corejslib/result/compare/v6.5.30...v6.5.31)
+
 ### v6.5.30 (2026-02-05)
 
 **Other changes:**

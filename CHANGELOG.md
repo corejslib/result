@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.32 (2026-03-02)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [f3bf244](https://github.com/corejslib/result/commit/f3bf244); 👬 zdm)
+
+Compare with the previous release: [v6.5.31](https://github.com/corejslib/result/compare/v6.5.31...v6.5.32)
+
 ### v6.5.31 (2026-02-09)
 
 **Bug fixes:**

@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.33 (2026-03-03)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update status text (● [725b5a9](https://github.com/corejslib/result/commit/725b5a9); 👬 zdm)
+
+Compare with the previous release: [v6.5.32](https://github.com/corejslib/result/compare/v6.5.32...v6.5.33)
+
 ### v6.5.32 (2026-03-02)
 
 **Other changes:**

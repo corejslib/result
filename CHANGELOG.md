@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.35 (2026-03-27)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix constructor (● [d9463cc](https://github.com/corejslib/result/commit/d9463cc); 👬 zdm)
+
+Compare with the previous release: [v6.5.34](https://github.com/corejslib/result/compare/v6.5.34...v6.5.35)
+
 ### v6.5.34 (2026-03-27)
 
 **Bug fixes:**

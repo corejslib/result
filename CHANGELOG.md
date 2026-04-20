@@ -1,5 +1,17 @@
 # Changelog
 
+### v6.5.36 (2026-04-20)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix status text inheritance (● [b46493a](https://github.com/corejslib/result/commit/b46493a); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [e330ece](https://github.com/corejslib/result/commit/e330ece); 👬 zdm)
+
+Compare with the previous release: [v6.5.35...v6.5.36](https://github.com/corejslib/result/compare/v6.5.35...v6.5.36)
+
 ### v6.5.35 (2026-03-27)
 
 **Bug fixes:**

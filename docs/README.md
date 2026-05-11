@@ -25,7 +25,7 @@ try {
     res = result.try( await someFunctionCall() );
 }
 catch ( e ) {
-    res = result.catch( e );
+    res = result.fromError( e );
 }
 ```
 
@@ -77,7 +77,7 @@ Checks, that `res` is instance of {Result}. If `res` is:
 - {Error}: returns `result( [500, error.message] )`.
 - Any other value: returns `result( 500 )`.
 
-### result.catch( res, options? )
+### result.fromError( res, options? )
 
 - `res` {any} Value to check.
 - `options?` {Object}:

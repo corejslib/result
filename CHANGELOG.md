@@ -1,5 +1,15 @@
 # Changelog
 
+### v6.5.38 (2026-05-11)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename result.catch() to result.fromError() (● [d5d5b37](https://github.com/corejslib/result/commit/d5d5b37); 👬 zdm)
+
+- \[PATCH] refactor: replace instanceof Error with Error.isError (● [322b5ac](https://github.com/corejslib/result/commit/322b5ac); 👬 zdm)
+
+Compare with the previous release: [v6.5.37...v6.5.38](https://github.com/corejslib/result/compare/v6.5.37...v6.5.38)
+
 ### v6.5.37 (2026-05-07)
 
 **Code refactoring:**

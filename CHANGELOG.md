@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.40 (2026-05-16)
+
+**Other changes:**
+
+- docs: update (● [d510b71](https://github.com/corejslib/result/commit/d510b71); 👬 zdm)
+
+Compare with the previous release: [v6.5.39...v6.5.40](https://github.com/corejslib/result/compare/v6.5.39...v6.5.40)
+
 ### v6.5.39 (2026-05-16)
 
 **Other changes:**

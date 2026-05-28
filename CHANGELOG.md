@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.41 (2026-05-28)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [fcc59d3](https://github.com/corejslib/result/commit/fcc59d3); 👬 zdm)
+
+Compare with the previous release: [v6.5.40...v6.5.41](https://github.com/corejslib/result/compare/v6.5.40...v6.5.41)
+
 ### v6.5.40 (2026-05-16)
 
 **Other changes:**

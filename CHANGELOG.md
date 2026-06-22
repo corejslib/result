@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.44 (2026-06-22)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: refactor .isResult (● [48e7141](https://github.com/corejslib/result/commit/48e7141); 👬 zdm)
+
+Compare with the previous release: [v6.5.43...v6.5.44](https://github.com/corejslib/result/compare/v6.5.43...v6.5.44)
+
 ### v6.5.43 (2026-06-22)
 
 **Other changes:**

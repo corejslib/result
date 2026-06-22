@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.5.42 (2026-06-22)
+
+**Other changes:**
+
+- style: lint (● [2d8988b](https://github.com/corejslib/result/commit/2d8988b); 👬 zdm)
+
+Compare with the previous release: [v6.5.41...v6.5.42](https://github.com/corejslib/result/compare/v6.5.41...v6.5.42)
+
 ### v6.5.41 (2026-05-28)
 
 **Other changes:**

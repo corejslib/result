@@ -19,10 +19,7 @@
         "#resources/*": "./resources/*"
     },
     "exports": {
-        ".": {
-            "browser": "./lib/_browser/index.js",
-            "node": "./lib/index.js"
-        }
+        ".": "./lib/index.js"
     },
     "files": [
         "/bin",

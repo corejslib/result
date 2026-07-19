@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.6.0 (2026-07-19)
+
+**New features:**
+
+- \[MINOR] feat: add .setData(), .setMeta() (● [d20c476](https://github.com/corejslib/result/commit/d20c476), [e2e0e0c](https://github.com/corejslib/result/commit/e2e0e0c), [924f02b](https://github.com/corejslib/result/commit/924f02b); 👬 zdm)
+
+Compare with the previous release: [v6.5.46...v6.6.0](https://github.com/corejslib/result/compare/v6.5.46...v6.6.0)
+
 ### v6.5.46 (2026-07-15)
 
 **Other changes:**

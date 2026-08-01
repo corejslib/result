@@ -1,5 +1,15 @@
 # Changelog
 
+### v6.6.1 (2026-08-01)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [3fb56d3](https://github.com/corejslib/result/commit/3fb56d3); 👬 zdm)
+
+- docs: update (● [554cbfd](https://github.com/corejslib/result/commit/554cbfd); 👬 zdm)
+
+Compare with the previous release: [v6.6.0...v6.6.1](https://github.com/corejslib/result/compare/v6.6.0...v6.6.1)
+
 ### v6.6.0 (2026-07-19)
 
 **New features:**

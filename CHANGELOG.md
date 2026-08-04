@@ -1,5 +1,13 @@
 # Changelog
 
+### v6.6.2 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [e219d9f](https://github.com/corejslib/result/commit/e219d9f), [1818f9d](https://github.com/corejslib/result/commit/1818f9d), [e0301d1](https://github.com/corejslib/result/commit/e0301d1); 👬 zdm)
+
+Compare with the previous release: [v6.6.1...v6.6.2](https://github.com/corejslib/result/compare/v6.6.1...v6.6.2)
+
 ### v6.6.1 (2026-08-01)
 
 **Other changes:**
